@@ -1,8 +1,8 @@
 package main
 
 import (
-	g9p "code.google.com/p/rog-go/new9p"
-	g9pc "code.google.com/p/rog-go/new9p/client"
+	g9p "github.com/zenoss/rog-go/new9p"
+	g9pc "github.com/zenoss/rog-go/new9p/client"
 	"flag"
 	"fmt"
 	"io"

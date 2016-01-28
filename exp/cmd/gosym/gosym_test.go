@@ -1,8 +1,8 @@
 package main
 
 import (
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/zenoss/rog-go/exp/go/ast"
+	"github.com/zenoss/rog-go/exp/go/token"
 	. "launchpad.net/gocheck"
 	"testing"
 )

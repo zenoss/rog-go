@@ -1,7 +1,7 @@
 package canvas
 
 import (
-	"code.google.com/p/x-go-binding/ui"
+	"github.com/BurntSushi/xgb/ui"
 	"image"
 	"image/color"
 	"image/draw"

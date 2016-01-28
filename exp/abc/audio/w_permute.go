@@ -1,6 +1,6 @@
 package audio
 
-import "code.google.com/p/rog-go/exp/abc"
+import "github.com/zenoss/rog-go/exp/abc"
 
 type PermuteWidget struct {
 	Format

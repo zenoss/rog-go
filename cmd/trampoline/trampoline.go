@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/rog-go/loopback"
+	"github.com/zenoss/rog-go/loopback"
 	"flag"
 	"fmt"
 	"io"

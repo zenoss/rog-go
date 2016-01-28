@@ -2,11 +2,11 @@ package main
 
 import (
 	"bytes"
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/parser"
-	"code.google.com/p/rog-go/exp/go/printer"
-	"code.google.com/p/rog-go/exp/go/token"
-	"code.google.com/p/rog-go/exp/go/types"
+	"github.com/zenoss/rog-go/exp/go/ast"
+	"github.com/zenoss/rog-go/exp/go/parser"
+	"github.com/zenoss/rog-go/exp/go/printer"
+	"github.com/zenoss/rog-go/exp/go/token"
+	"github.com/zenoss/rog-go/exp/go/types"
 	"errors"
 	"flag"
 	"fmt"

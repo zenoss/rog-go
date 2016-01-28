@@ -10,9 +10,9 @@
 package parser
 
 import (
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/scanner"
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/zenoss/rog-go/exp/go/ast"
+	"github.com/zenoss/rog-go/exp/go/scanner"
+	"github.com/zenoss/rog-go/exp/go/token"
 	"fmt"
 	"regexp"
 	"strconv"

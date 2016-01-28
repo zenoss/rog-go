@@ -5,7 +5,7 @@
 package scanner
 
 import (
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/zenoss/rog-go/exp/go/token"
 	"os"
 	"path/filepath"
 	"runtime"

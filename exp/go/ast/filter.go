@@ -4,7 +4,7 @@
 
 package ast
 
-import "code.google.com/p/rog-go/exp/go/token"
+import "github.com/zenoss/rog-go/exp/go/token"
 
 // ----------------------------------------------------------------------------
 // Export filtering

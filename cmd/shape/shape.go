@@ -1,9 +1,9 @@
 package main
 
 import (
-	"code.google.com/p/freetype-go/freetype/raster"
-	"code.google.com/p/rog-go/canvas"
-	"code.google.com/p/rog-go/values"
+	"github.com/golang/freetype/raster"
+	"github.com/zenoss/rog-go/canvas"
+	"github.com/zenoss/rog-go/values"
 	"exp/draw"
 	"exp/draw/x11"
 	"fmt"
